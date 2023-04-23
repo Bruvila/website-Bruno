@@ -1,4 +1,4 @@
-# Adapted for the flass OPIM 668 MSB - Project done by Bruno Avila
+# Adapted for the class OPIM 668 MSB - Project done by Bruno Avila
 
 [Start Bootstrap - New Age](https://startbootstrap.com/theme/new-age/)
 
